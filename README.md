@@ -72,6 +72,6 @@ I evaluated on fast subsets of 90–120 stratified examples per task due to GPU 
 
 ## Citation / Authors
 
-Dev Shah ([djs525@scarletmail.rutgers.edu](mailto:djs525@scarletmail.rutgers.edu)) and Tathya Shah ([tts49@scarletmail.rutgers.edu](mailto:tts49@scarletmail.rutgers.edu)), Rutgers University.
+Tathya Shah ([tts49@scarletmail.rutgers.edu](mailto:tts49@scarletmail.rutgers.edu)) and Dev Shah ([djs525@scarletmail.rutgers.edu](mailto:djs525@scarletmail.rutgers.edu)), Rutgers University.
 
 If you use any of this, feel free to reach out or just link back to the repo.
